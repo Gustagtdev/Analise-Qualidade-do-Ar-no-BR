@@ -1,0 +1,10 @@
+- Tecnologias utlizadas
+streamlit
+pandas
+plotly
+numpy
+statsmodels
+scikit-learn
+jupyter
+notebook
+matplotlib
