@@ -4,7 +4,7 @@
 - Gustavo Rodrigues Lopes
 # Professor:
 - Alexandre Louzada
-Projeto de análise de dados ambientais utilizando:
+# Projeto de análise de dados ambientais utilizando:
 
 - Python
 - Streamlit
